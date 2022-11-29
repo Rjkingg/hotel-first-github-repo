@@ -1,15 +1,17 @@
 # GitHub Introduction
 
 ## GitHub Vocabulary
-- Git
-- GitHub
-- remote
-- local
-- branch
-- clone
-- repo (repository)
-- GUI
-- markdown
+- Git - version control software
+- GitHub - online platform for sharing code and tracking versions
+- remote - "in the cloud" or the GitHub platform
+- local - my computer
+- branch - path between local and remote
+- clone - putting a repo on my local
+- repo (repository) - named folder that is attached to GitHub
+- GUI - graphic user interface, point and clock, icons, menu grids
+- CLI - coomand line interface, not a GUI
+- markdown - text based language for documenting code
+
 
 
 ## GitHub Commands
@@ -20,7 +22,9 @@
 - git push origin main
 
 ## Keyboard Shortcuts
-- command
-- command
-- command
-- command 
+- command + s - save
+- command + r - refresh
+- command + x - cut
+- command + c - copy
+- command + v - paste
+- command + z - undo
